@@ -34,7 +34,7 @@ Clone the repository:
 
 bash
 Copy
-git clone https://github.com/your-username/rita-africa-chatbot.git
+git clone https://github.com/siyabongam26/chatbot.git
 cd rita-africa-chatbot
 Install the required libraries:
 
